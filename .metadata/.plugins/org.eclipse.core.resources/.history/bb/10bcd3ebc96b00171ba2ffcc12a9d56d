@@ -1,0 +1,29 @@
+package patmat
+
+object week4 {
+  println("Welcome to the Scala worksheet")       //> Welcome to the Scala worksheet
+  val list = Huffman.times(List('a', 'b', 'e', 'c', 'e', 'd', 'a'))
+                                                  //> java.lang.NoClassDefFoundError: scala/Product$class
+                                                  //| 	at patmat.Huffman$Leaf.<init>(Huffman.scala:23)
+                                                  //| 	at patmat.Huffman$.<init>(Huffman.scala:193)
+                                                  //| 	at patmat.Huffman$.<clinit>(Huffman.scala)
+                                                  //| 	at patmat.week4$.$anonfun$main$1(patmat.week4.scala:5)
+                                                  //| 	at org.scalaide.worksheet.runtime.library.WorksheetSupport$.$anonfun$$ex
+                                                  //| ecute$1(WorksheetSupport.scala:76)
+                                                  //| 	at org.scalaide.worksheet.runtime.library.WorksheetSupport$.redirected(W
+                                                  //| orksheetSupport.scala:65)
+                                                  //| 	at org.scalaide.worksheet.runtime.library.WorksheetSupport$.$execute(Wor
+                                                  //| ksheetSupport.scala:76)
+                                                  //| 	at patmat.week4$.main(patmat.week4.scala:3)
+                                                  //| 	at patmat.week4.main(patmat.week4.scala)
+                                                  //| Caused by: java.lang.ClassNotFoundException: scala.Product$class
+                                                  //| 	at java.net.URLClassLoader.findClass(Unknown Source)
+                                                  //| 	at java.lang.ClassLoader.loadClass(Unknown Source)
+                                                  //| 	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+                                                  //| 	at java.lang.ClassLoader.loadClass(Unk
+                                                  //| Output exceeds cutoff limit.
+  Huffman.makeOrderedLeafList(list)
+  Huffman.createCodeTree(List('a', 'b', 'e', 'c', 'e', 'd', 'a'))
+  Huffman.decode(Huffman.frenchCode, Huffman.secret)
+  
+}

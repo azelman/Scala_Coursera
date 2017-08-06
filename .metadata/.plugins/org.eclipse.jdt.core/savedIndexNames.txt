@@ -1,0 +1,8 @@
+INDEX VERSION 1.130+C:\Users\Default.DESKTOP-KGN6TDB\workspace_scala\Scala_Coursera\.metadata\.plugins\org.eclipse.jdt.core
+4088014553.index
+1505071098.index
+233271556.index
+2979279814.index
+958553756.index
+1206489004.index
+2812313356.index
