@@ -1,0 +1,4 @@
+object week62 {
+  
+  "aaabbc" groupBy (x => x)
+}

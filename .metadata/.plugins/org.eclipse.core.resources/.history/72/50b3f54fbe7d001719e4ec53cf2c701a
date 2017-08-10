@@ -1,0 +1,7 @@
+object week62 {
+  
+  var map = "aaabbcAAA" groupBy (x => x.toLower)  //> map  : scala.collection.immutable.Map[Char,String] = Map(b -> bb, a -> aaa, c
+                                                  //|  -> c)
+	(for ((x,y) <- map) yield (x, y.length)).toList.sorted
+                                                  //> res0: List[(Char, Int)] = List((a,3), (b,2), (c,1))
+}

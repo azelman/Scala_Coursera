@@ -1,0 +1,18 @@
+object week61 {
+  println("Welcome to the Scala worksheet")       //> Welcome to the Scala worksheet
+  
+  val col = 1                                     //> col  : Int = 1
+  val row = 2                                     //> row  : Int = 2
+  val n = 4                                       //> n  : Int = 4
+  
+  val queens = (2,0)
+  
+  def diags = 
+  for {
+  	c <- 0 until n
+  	r <- 0 until n
+  	if (c - col == r - row) || (c + col == r + row)
+  	} yield (c, r)                            //> res0: scala.collection.immutable.IndexedSeq[(Int, Int)] = Vector((0,1), (1,0
+                                                  //| ), (1,2), (2,1), (2,3), (3,2))
+  queens.reverse
+}

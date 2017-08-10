@@ -1466,3 +1466,622 @@ java.lang.RuntimeException: Could not create directory C:\Users\Default.CORTEX\.
 2017-08-06 13:27:23,506  WARN [ModalContext] - ScalaProject - Project forcomp runs on platform default installation.
 2017-08-06 13:27:24,809  WARN [ModalContext] - ScalaProject - Project forcomp has platform default sourceLevel.
 2017-08-06 13:27:24,809  WARN [ModalContext] - ScalaProject - Project forcomp runs on platform default installation.
+2017-08-06 22:57:43,823  WARN [Worker-375] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-06 22:57:43,833  WARN [Worker-375] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 12:23:34,707  WARN [Worker-3] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 12:23:34,717  WARN [Worker-3] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 12:23:34,773  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for forcomp, setting default to 2.12.
+2017-08-07 12:23:34,802  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for forcomp, setting default to 2.12.
+2017-08-07 12:23:35,275 ERROR [Worker-0] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2017-08-07 12:23:35,275 ERROR [Worker-0] - System.err - log4j:WARN Please initialize the log4j system properly.
+2017-08-07 12:23:35,578  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-08-07 12:23:57,842  WARN [Worker-3] - ScalaProject - Project recfun has platform default sourceLevel.
+2017-08-07 12:23:57,843  WARN [Worker-3] - ScalaProject - Project recfun runs on platform default installation.
+2017-08-07 12:23:57,900  WARN [Worker-3] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 12:23:57,900  WARN [Worker-3] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 12:23:58,014  WARN [Worker-3] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 12:23:58,014  WARN [Worker-3] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 12:23:58,277  WARN [bundle-320-ActorSystem-akka.actor.default-dispatcher-2] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 12:23:58,288  WARN [bundle-320-ActorSystem-akka.actor.default-dispatcher-2] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 12:24:00,871  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-08-07 12:24:18,792  WARN [Worker-4] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 12:24:18,793  WARN [Worker-4] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 12:24:27,421  WARN [Worker-5] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 12:24:27,422  WARN [Worker-5] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 12:24:29,955  WARN [Worker-6] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 12:24:29,956  WARN [Worker-6] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 12:57:27,593  WARN [Worker-9] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 12:57:27,594  WARN [Worker-9] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 12:57:30,072  WARN [Worker-7] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 12:57:30,073  WARN [Worker-7] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 12:58:21,107  WARN [Worker-1] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 12:58:21,108  WARN [Worker-1] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 12:58:22,788  WARN [Worker-12] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 12:58:22,789  WARN [Worker-12] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 12:58:51,248  WARN [Worker-11] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 12:58:51,249  WARN [Worker-11] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 12:58:54,259  WARN [Worker-1] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 12:58:54,260  WARN [Worker-1] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:00:13,685  WARN [Worker-7] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:00:13,685  WARN [Worker-7] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:00:15,351  WARN [Worker-10] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:00:15,352  WARN [Worker-10] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:00:20,206  WARN [Worker-10] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:00:20,206  WARN [Worker-10] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:00:21,931  WARN [Worker-14] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:00:21,931  WARN [Worker-14] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:00:33,109  WARN [Worker-16] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:00:33,109  WARN [Worker-16] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:00:34,762  WARN [Worker-10] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:00:34,762  WARN [Worker-10] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:00:47,345  WARN [Worker-13] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:00:47,346  WARN [Worker-13] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:00:49,548  WARN [Worker-10] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:00:49,548  WARN [Worker-10] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:09:15,406  WARN [Worker-16] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:09:15,406  WARN [Worker-16] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:09:17,617  WARN [Worker-16] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:09:17,618  WARN [Worker-16] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:10:10,289 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-07 13:10:10,291 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-07 13:10:18,217  WARN [Worker-19] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:10:18,217  WARN [Worker-19] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:10:20,532  WARN [Worker-20] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:10:20,532  WARN [Worker-20] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:11:08,467  WARN [Worker-19] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:11:08,467  WARN [Worker-19] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:11:10,217  WARN [Worker-18] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:11:10,217  WARN [Worker-18] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:11:19,420  WARN [Worker-19] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:11:19,420  WARN [Worker-19] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:11:21,147  WARN [Worker-18] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:11:21,147  WARN [Worker-18] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:13:28,186  WARN [Worker-22] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:13:28,186  WARN [Worker-22] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:13:29,842  WARN [Worker-22] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:13:29,842  WARN [Worker-22] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:16:01,973  WARN [Worker-26] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:16:01,973  WARN [Worker-26] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:16:03,682  WARN [Worker-22] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:16:03,682  WARN [Worker-22] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:16:38,354  WARN [Worker-29] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:16:38,354  WARN [Worker-29] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:16:40,004  WARN [Worker-26] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:16:40,005  WARN [Worker-26] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:16:53,485  WARN [Worker-26] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:16:53,485  WARN [Worker-26] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:16:55,144  WARN [Worker-28] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:16:55,144  WARN [Worker-28] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:16:58,814  WARN [Worker-26] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:16:58,815  WARN [Worker-26] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:17:01,049  WARN [Worker-26] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:17:01,049  WARN [Worker-26] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:28:41,981  WARN [Worker-31] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:28:41,981  WARN [Worker-31] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:28:43,688  WARN [Worker-36] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:28:43,688  WARN [Worker-36] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:28:57,941  WARN [Worker-31] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:28:57,941  WARN [Worker-31] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:29:00,432  WARN [Worker-33] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:29:00,432  WARN [Worker-33] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:33:14,137  WARN [Worker-36] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:33:14,137  WARN [Worker-36] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:33:15,816  WARN [Worker-39] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:33:15,817  WARN [Worker-39] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:36:33,059  WARN [Worker-37] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:36:33,060  WARN [Worker-37] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:36:34,784  WARN [Worker-36] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:36:34,785  WARN [Worker-36] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:37:01,213  WARN [Worker-37] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:37:01,214  WARN [Worker-37] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:37:02,818  WARN [Worker-36] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:37:02,818  WARN [Worker-36] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:38:32,038  WARN [Worker-37] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:38:32,039  WARN [Worker-37] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:38:34,303  WARN [Worker-37] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:38:34,304  WARN [Worker-37] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:40:33,430  WARN [Worker-51] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:40:33,430  WARN [Worker-51] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:40:36,230  WARN [Worker-54] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:40:36,230  WARN [Worker-54] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:46:43,416  WARN [Worker-53] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:46:43,417  WARN [Worker-53] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:46:45,525  WARN [Worker-53] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:46:45,526  WARN [Worker-53] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:47:18,401  WARN [Worker-58] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:47:18,401  WARN [Worker-58] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:47:20,128  WARN [Worker-59] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:47:20,128  WARN [Worker-59] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:52:39,395  WARN [Worker-60] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:52:39,395  WARN [Worker-60] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 13:52:41,100  WARN [Worker-58] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 13:52:41,100  WARN [Worker-58] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:07:09,381  WARN [Worker-64] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:07:09,381  WARN [Worker-64] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:07:11,577  WARN [Worker-63] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:07:11,577  WARN [Worker-63] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:11:37,596  WARN [Worker-63] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:11:37,597  WARN [Worker-63] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:11:39,448  WARN [Worker-65] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:11:39,449  WARN [Worker-65] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:12:33,013  WARN [Worker-73] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:12:33,014  WARN [Worker-73] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:12:34,897  WARN [Worker-73] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:12:34,897  WARN [Worker-73] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:12:44,483  WARN [Worker-69] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:12:44,484  WARN [Worker-69] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:12:46,259  WARN [Worker-69] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:12:46,260  WARN [Worker-69] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:16:25,276  WARN [Worker-73] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:16:25,276  WARN [Worker-73] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:16:27,021  WARN [Worker-76] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:16:27,022  WARN [Worker-76] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:17:09,798  WARN [Worker-69] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:17:09,799  WARN [Worker-69] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:17:11,817  WARN [Worker-73] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:17:11,818  WARN [Worker-73] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:18:18,342  WARN [Worker-69] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:18:18,342  WARN [Worker-69] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:18:20,347  WARN [Worker-77] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:18:20,347  WARN [Worker-77] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:22:21,493  WARN [Worker-79] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:22:21,494  WARN [Worker-79] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:22:23,355  WARN [Worker-80] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:22:23,355  WARN [Worker-80] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:22:45,775  WARN [Worker-79] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:22:45,776  WARN [Worker-79] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:22:47,721  WARN [Worker-83] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:22:47,722  WARN [Worker-83] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:26:11,657  WARN [Worker-85] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:26:11,657  WARN [Worker-85] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:26:13,596  WARN [Worker-86] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:26:13,597  WARN [Worker-86] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:26:27,522  WARN [Worker-86] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:26:27,522  WARN [Worker-86] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:26:29,485  WARN [Worker-85] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:26:29,486  WARN [Worker-85] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:26:41,066  WARN [Worker-74] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:26:41,067  WARN [Worker-74] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:26:43,062  WARN [Worker-86] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:26:43,063  WARN [Worker-86] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:27:22,720  WARN [Worker-85] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:27:22,721  WARN [Worker-85] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:27:24,598  WARN [Worker-89] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:27:24,598  WARN [Worker-89] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:28:02,874  WARN [Worker-90] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:28:02,874  WARN [Worker-90] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:28:04,864  WARN [Worker-85] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:28:04,865  WARN [Worker-85] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:29:10,529  WARN [Worker-90] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:29:10,530  WARN [Worker-90] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:29:12,578  WARN [Worker-92] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:29:12,578  WARN [Worker-92] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:32:33,636  WARN [Worker-93] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:32:33,637  WARN [Worker-93] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:32:35,274  WARN [Worker-98] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:32:35,274  WARN [Worker-98] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:32:52,667  WARN [Worker-97] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:32:52,668  WARN [Worker-97] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:32:54,263  WARN [Worker-97] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:32:54,264  WARN [Worker-97] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:34:26,974  WARN [Worker-99] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:34:26,975  WARN [Worker-99] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:34:28,604  WARN [Worker-102] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:34:28,605  WARN [Worker-102] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:34:53,870  WARN [Worker-99] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:34:53,871  WARN [Worker-99] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:34:55,511  WARN [Worker-101] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:34:55,511  WARN [Worker-101] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:35:20,520  WARN [Worker-100] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:35:20,523  WARN [Worker-100] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:35:22,271  WARN [Worker-101] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:35:22,272  WARN [Worker-101] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:36:02,765  WARN [Worker-101] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:36:02,765  WARN [Worker-101] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:36:04,755  WARN [Worker-104] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:36:04,755  WARN [Worker-104] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:51:26,101  WARN [Worker-108] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:51:26,102  WARN [Worker-108] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:51:27,722  WARN [Worker-108] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:51:27,722  WARN [Worker-108] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:52:28,944  WARN [Worker-112] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:52:28,944  WARN [Worker-112] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:52:30,875  WARN [Worker-90] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:52:30,875  WARN [Worker-90] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:53:34,191  WARN [Worker-90] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:53:34,191  WARN [Worker-90] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:53:36,224  WARN [Worker-90] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:53:36,225  WARN [Worker-90] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:54:06,736 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-07 14:54:06,737 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-07 14:54:06,737 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-07 14:54:11,128  WARN [Worker-108] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:54:11,129  WARN [Worker-108] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 14:54:13,268  WARN [Worker-115] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 14:54:13,268  WARN [Worker-115] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 15:00:34,519  WARN [Worker-118] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 15:00:34,519  WARN [Worker-118] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 15:00:36,411  WARN [Worker-120] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 15:00:36,411  WARN [Worker-120] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 15:00:50,479  WARN [Worker-118] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 15:00:50,480  WARN [Worker-118] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 15:00:52,446  WARN [Worker-119] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 15:00:52,446  WARN [Worker-119] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 15:12:11,201  WARN [Worker-123] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 15:12:11,202  WARN [Worker-123] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 15:12:31,290  WARN [Worker-123] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 15:12:31,290  WARN [Worker-123] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 15:12:32,959  WARN [Worker-123] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 15:12:32,960  WARN [Worker-123] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 15:12:34,690 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-07 15:12:34,690 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-07 15:12:34,691 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-07 15:14:03,173  WARN [Worker-124] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 15:14:03,174  WARN [Worker-124] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 15:14:05,266  WARN [Worker-124] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 15:14:05,267  WARN [Worker-124] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 15:14:26,929  WARN [Worker-116] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 15:14:26,930  WARN [Worker-116] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 15:14:29,063  WARN [Worker-127] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 15:14:29,063  WARN [Worker-127] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 15:14:36,005  WARN [Worker-124] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 15:14:36,005  WARN [Worker-124] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 15:16:58,246  WARN [Worker-131] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 15:16:58,246  WARN [Worker-131] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 15:16:59,877  WARN [Worker-124] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 15:16:59,878  WARN [Worker-124] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-07 15:17:01,551  WARN [Worker-132] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-07 15:17:01,551  WARN [Worker-132] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:14:33,594  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:14:33,608  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:14:33,625  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:14:33,625  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:14:36,692  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for objsets, setting default to 2.12.
+2017-08-09 09:14:36,703  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for objsets, setting default to 2.12.
+2017-08-09 09:14:36,836  WARN [Worker-0] - ScalaProject - Project recfun has platform default sourceLevel.
+2017-08-09 09:14:36,837  WARN [Worker-0] - ScalaProject - Project recfun runs on platform default installation.
+2017-08-09 09:14:36,891  WARN [Worker-0] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:14:36,892  WARN [Worker-0] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:14:37,275  WARN [Worker-0] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:14:37,276  WARN [Worker-0] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:16:35,147  WARN [Worker-5] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:16:35,148  WARN [Worker-5] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:16:39,243 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-09 09:16:39,243 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-09 09:16:39,244 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-09 09:16:39,257  WARN [Worker-4] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:16:39,258  WARN [Worker-4] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:17:01,850  WARN [Worker-0] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:17:01,850  WARN [Worker-0] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:17:04,540  WARN [Worker-6] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:17:04,540  WARN [Worker-6] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:20:48,401  WARN [Worker-0] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:20:48,401  WARN [Worker-0] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:20:50,260  WARN [Worker-4] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:20:50,260  WARN [Worker-4] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:20:57,789  WARN [Worker-0] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:20:57,789  WARN [Worker-0] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:21:00,148 ERROR [Worker-5] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 1
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  Error: Main method not found in class polynomials, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+
+2017-08-09 09:22:11,705  WARN [Worker-1] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:22:11,706  WARN [Worker-1] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:22:14,551  WARN [Worker-8] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:22:14,551  WARN [Worker-8] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:23:43,427  WARN [Worker-9] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:23:43,428  WARN [Worker-9] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:23:45,166  WARN [Worker-4] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:23:45,167  WARN [Worker-4] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:23:56,214  WARN [Worker-10] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:23:56,216  WARN [Worker-10] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:23:58,932  WARN [Worker-5] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:23:58,932  WARN [Worker-5] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:25:27,859  WARN [Worker-10] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:25:27,860  WARN [Worker-10] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:25:29,493  WARN [Worker-4] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:25:29,493  WARN [Worker-4] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:28:15,893  WARN [Worker-4] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:28:15,893  WARN [Worker-4] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:28:17,550  WARN [Worker-10] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:28:17,551  WARN [Worker-10] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:28:27,180  WARN [Worker-14] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:28:27,180  WARN [Worker-14] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:28:28,834  WARN [Worker-15] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:28:28,834  WARN [Worker-15] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:28:30,470  WARN [Worker-10] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:28:30,470  WARN [Worker-10] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:30:18,869  WARN [Worker-4] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:30:18,870  WARN [Worker-4] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:30:20,526  WARN [Worker-17] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:30:20,527  WARN [Worker-17] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:30:43,834  WARN [Worker-16] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:30:43,834  WARN [Worker-16] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:30:46,444  WARN [Worker-14] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:30:46,445  WARN [Worker-14] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:30:57,814  WARN [Worker-18] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:30:57,814  WARN [Worker-18] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:31:00,202  WARN [Worker-17] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:31:00,203  WARN [Worker-17] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:40:58,556  WARN [Worker-17] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:40:58,557  WARN [Worker-17] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:41:00,226  WARN [Worker-22] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:41:00,226  WARN [Worker-22] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:42:42,715  WARN [Worker-26] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:42:42,716  WARN [Worker-26] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:42:44,365  WARN [Worker-27] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:42:44,365  WARN [Worker-27] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:49:23,117  WARN [Worker-30] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:49:23,118  WARN [Worker-30] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:49:25,491  WARN [Worker-29] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:49:25,491  WARN [Worker-29] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:51:46,127  WARN [Worker-32] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:51:46,127  WARN [Worker-32] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-09 09:51:48,351  WARN [Worker-36] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-09 09:51:48,351  WARN [Worker-36] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:01:11,673  WARN [Worker-72] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:01:11,674  WARN [Worker-72] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:01:14,872  WARN [Worker-71] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:01:14,873  WARN [Worker-71] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:03:01,717  WARN [Worker-79] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:03:01,718  WARN [Worker-79] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:03:03,756  WARN [Worker-76] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:03:03,757  WARN [Worker-76] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:03:33,848  WARN [Worker-81] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:03:33,848  WARN [Worker-81] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:03:35,760  WARN [Worker-81] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:03:35,760  WARN [Worker-81] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:03:46,692  WARN [Worker-82] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:03:46,692  WARN [Worker-82] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:03:48,656  WARN [Worker-82] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:03:48,656  WARN [Worker-82] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:06:10,352  WARN [Worker-76] - ScalaProject - Project recfun has platform default sourceLevel.
+2017-08-10 13:06:10,353  WARN [Worker-76] - ScalaProject - Project recfun runs on platform default installation.
+2017-08-10 13:06:10,365  WARN [Worker-76] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:06:10,366  WARN [Worker-76] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:06:10,373  WARN [Worker-76] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:06:10,373  WARN [Worker-76] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:16:37,735 ERROR [Worker-91] - ScalaLocalVariable - Exception while retrieving variable's value
+com.sun.jdi.InternalException: Got error code in reply:13
+	at org.eclipse.jdi.internal.MirrorImpl.defaultReplyErrorHandler(MirrorImpl.java:299)
+	at org.eclipse.jdi.internal.StackFrameImpl.getValues(StackFrameImpl.java:139)
+	at org.eclipse.jdi.internal.StackFrameImpl.getValue(StackFrameImpl.java:75)
+	at org.scalaide.debug.internal.model.ScalaLocalVariable.doGetValue(ScalaVariable.scala:72)
+	at org.scalaide.debug.internal.model.ScalaVariable.$anonfun$getValue$2(ScalaVariable.scala:35)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:224)
+	at org.scalaide.debug.internal.model.ScalaVariable.$anonfun$getValue$1(ScalaVariable.scala:35)
+	at org.scalaide.util.Utils$jdiSynchronized$$anon$1.call(Utils.scala:60)
+	at scala.tools.eclipse.contribution.weaving.jdt.jdi.JdiInvocationSynchronizer.runSynchronized(JdiInvocationSynchronizer.java:23)
+	at org.scalaide.util.Utils$jdiSynchronized$.apply(Utils.scala:64)
+	at org.scalaide.debug.internal.model.ScalaVariable.getValue(ScalaVariable.scala:35)
+	at org.eclipse.debug.internal.ui.model.elements.VariableContentProvider.getAllChildren(VariableContentProvider.java:85)
+	at org.eclipse.debug.internal.ui.model.elements.VariableContentProvider.getChildCount(VariableContentProvider.java:49)
+	at org.eclipse.debug.internal.ui.model.elements.ElementContentProvider.retrieveChildCount(ElementContentProvider.java:118)
+	at org.eclipse.debug.internal.ui.model.elements.ElementContentProvider$2.run(ElementContentProvider.java:67)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+2017-08-10 13:16:50,559 ERROR [Worker-90] - ScalaLocalVariable - Exception while retrieving variable's value
+com.sun.jdi.InvalidStackFrameException
+	at org.eclipse.jdi.internal.MirrorImpl.defaultReplyErrorHandler(MirrorImpl.java:291)
+	at org.eclipse.jdi.internal.StackFrameImpl.getValues(StackFrameImpl.java:139)
+	at org.eclipse.jdi.internal.StackFrameImpl.getValue(StackFrameImpl.java:75)
+	at org.scalaide.debug.internal.model.ScalaLocalVariable.doGetValue(ScalaVariable.scala:72)
+	at org.scalaide.debug.internal.model.ScalaVariable.$anonfun$getValue$2(ScalaVariable.scala:35)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:224)
+	at org.scalaide.debug.internal.model.ScalaVariable.$anonfun$getValue$1(ScalaVariable.scala:35)
+	at org.scalaide.util.Utils$jdiSynchronized$$anon$1.call(Utils.scala:60)
+	at scala.tools.eclipse.contribution.weaving.jdt.jdi.JdiInvocationSynchronizer.runSynchronized(JdiInvocationSynchronizer.java:23)
+	at org.scalaide.util.Utils$jdiSynchronized$.apply(Utils.scala:64)
+	at org.scalaide.debug.internal.model.ScalaVariable.getValue(ScalaVariable.scala:35)
+	at org.eclipse.debug.internal.ui.model.elements.VariableContentProvider.hasChildren(VariableContentProvider.java:65)
+	at org.eclipse.debug.internal.ui.model.elements.ElementContentProvider.updateHasChildren(ElementContentProvider.java:229)
+	at org.eclipse.debug.internal.ui.model.elements.ElementContentProvider$3.run(ElementContentProvider.java:206)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+2017-08-10 13:16:58,487 ERROR [Worker-88] - ScalaLocalVariable - Exception while retrieving variable's value
+com.sun.jdi.InvalidStackFrameException
+	at org.eclipse.jdi.internal.MirrorImpl.defaultReplyErrorHandler(MirrorImpl.java:291)
+	at org.eclipse.jdi.internal.StackFrameImpl.getValues(StackFrameImpl.java:139)
+	at org.eclipse.jdi.internal.StackFrameImpl.getValue(StackFrameImpl.java:75)
+	at org.scalaide.debug.internal.model.ScalaLocalVariable.doGetValue(ScalaVariable.scala:72)
+	at org.scalaide.debug.internal.model.ScalaVariable.$anonfun$getValue$2(ScalaVariable.scala:35)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:224)
+	at org.scalaide.debug.internal.model.ScalaVariable.$anonfun$getValue$1(ScalaVariable.scala:35)
+	at org.scalaide.util.Utils$jdiSynchronized$$anon$1.call(Utils.scala:60)
+	at scala.tools.eclipse.contribution.weaving.jdt.jdi.JdiInvocationSynchronizer.runSynchronized(JdiInvocationSynchronizer.java:23)
+	at org.scalaide.util.Utils$jdiSynchronized$.apply(Utils.scala:64)
+	at org.scalaide.debug.internal.model.ScalaVariable.getValue(ScalaVariable.scala:35)
+	at org.scalaide.debug.internal.model.ScalaDebugModelPresentation$.$anonfun$textFor$3(ScalaDebugModelPresentation.scala:52)
+	at scala.util.Try$.apply(Try.scala:209)
+	at org.scalaide.debug.internal.model.ScalaDebugModelPresentation$.textFor(ScalaDebugModelPresentation.scala:52)
+	at org.scalaide.debug.internal.model.ScalaDebugModelPresentation.getText(ScalaDebugModelPresentation.scala:150)
+	at org.eclipse.debug.internal.ui.LazyModelPresentation.getText(LazyModelPresentation.java:191)
+	at org.eclipse.debug.internal.ui.DelegatingModelPresentation.getText(DelegatingModelPresentation.java:162)
+	at org.eclipse.debug.internal.ui.views.launch.DebugElementHelper.getLabel(DebugElementHelper.java:92)
+	at org.eclipse.debug.internal.ui.model.elements.DebugElementLabelProvider.getLabel(DebugElementLabelProvider.java:38)
+	at org.eclipse.debug.internal.ui.model.elements.VariableLabelProvider.getLabel(VariableLabelProvider.java:92)
+	at org.eclipse.debug.internal.ui.model.elements.ElementLabelProvider.getLabel(ElementLabelProvider.java:315)
+	at org.eclipse.debug.internal.ui.model.elements.ElementLabelProvider.retrieveLabel(ElementLabelProvider.java:218)
+	at org.eclipse.debug.internal.ui.model.elements.ElementLabelProvider$LabelUpdater.run(ElementLabelProvider.java:165)
+	at org.eclipse.debug.internal.ui.model.elements.ElementLabelProvider$LabelJob.run(ElementLabelProvider.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+2017-08-10 13:17:02,264 ERROR [Worker-95] - ScalaLocalVariable - Exception while retrieving variable's value
+com.sun.jdi.InternalException: Got error code in reply:13
+	at org.eclipse.jdi.internal.MirrorImpl.defaultReplyErrorHandler(MirrorImpl.java:299)
+	at org.eclipse.jdi.internal.StackFrameImpl.getValues(StackFrameImpl.java:139)
+	at org.eclipse.jdi.internal.StackFrameImpl.getValue(StackFrameImpl.java:75)
+	at org.scalaide.debug.internal.model.ScalaLocalVariable.doGetValue(ScalaVariable.scala:72)
+	at org.scalaide.debug.internal.model.ScalaVariable.$anonfun$getValue$2(ScalaVariable.scala:35)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:224)
+	at org.scalaide.debug.internal.model.ScalaVariable.$anonfun$getValue$1(ScalaVariable.scala:35)
+	at org.scalaide.util.Utils$jdiSynchronized$$anon$1.call(Utils.scala:60)
+	at scala.tools.eclipse.contribution.weaving.jdt.jdi.JdiInvocationSynchronizer.runSynchronized(JdiInvocationSynchronizer.java:23)
+	at org.scalaide.util.Utils$jdiSynchronized$.apply(Utils.scala:64)
+	at org.scalaide.debug.internal.model.ScalaVariable.getValue(ScalaVariable.scala:35)
+	at org.scalaide.debug.internal.model.ScalaDebugModelPresentation$.$anonfun$textFor$3(ScalaDebugModelPresentation.scala:52)
+	at scala.util.Try$.apply(Try.scala:209)
+	at org.scalaide.debug.internal.model.ScalaDebugModelPresentation$.textFor(ScalaDebugModelPresentation.scala:52)
+	at org.scalaide.debug.internal.model.ScalaDebugModelPresentation.getText(ScalaDebugModelPresentation.scala:150)
+	at org.eclipse.debug.internal.ui.LazyModelPresentation.getText(LazyModelPresentation.java:191)
+	at org.eclipse.debug.internal.ui.DelegatingModelPresentation.getText(DelegatingModelPresentation.java:162)
+	at org.eclipse.debug.internal.ui.views.launch.DebugElementHelper.getLabel(DebugElementHelper.java:92)
+	at org.eclipse.debug.internal.ui.model.elements.DebugElementLabelProvider.getLabel(DebugElementLabelProvider.java:38)
+	at org.eclipse.debug.internal.ui.model.elements.VariableLabelProvider.getLabel(VariableLabelProvider.java:92)
+	at org.eclipse.debug.internal.ui.model.elements.ElementLabelProvider.getLabel(ElementLabelProvider.java:315)
+	at org.eclipse.debug.internal.ui.model.elements.ElementLabelProvider.retrieveLabel(ElementLabelProvider.java:218)
+	at org.eclipse.debug.internal.ui.model.elements.ElementLabelProvider$LabelUpdater.run(ElementLabelProvider.java:165)
+	at org.eclipse.debug.internal.ui.model.elements.ElementLabelProvider$LabelJob.run(ElementLabelProvider.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+2017-08-10 13:17:22,081 ERROR [Worker-94] - ScalaLocalVariable - Exception while retrieving variable's value
+com.sun.jdi.InvalidStackFrameException
+	at org.eclipse.jdi.internal.MirrorImpl.defaultReplyErrorHandler(MirrorImpl.java:291)
+	at org.eclipse.jdi.internal.StackFrameImpl.getValues(StackFrameImpl.java:139)
+	at org.eclipse.jdi.internal.StackFrameImpl.getValue(StackFrameImpl.java:75)
+	at org.scalaide.debug.internal.model.ScalaLocalVariable.doGetValue(ScalaVariable.scala:72)
+	at org.scalaide.debug.internal.model.ScalaVariable.$anonfun$getValue$2(ScalaVariable.scala:35)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:224)
+	at org.scalaide.debug.internal.model.ScalaVariable.$anonfun$getValue$1(ScalaVariable.scala:35)
+	at org.scalaide.util.Utils$jdiSynchronized$$anon$1.call(Utils.scala:60)
+	at scala.tools.eclipse.contribution.weaving.jdt.jdi.JdiInvocationSynchronizer.runSynchronized(JdiInvocationSynchronizer.java:23)
+	at org.scalaide.util.Utils$jdiSynchronized$.apply(Utils.scala:64)
+	at org.scalaide.debug.internal.model.ScalaVariable.getValue(ScalaVariable.scala:35)
+	at org.scalaide.debug.internal.model.ScalaDebugModelPresentation$.$anonfun$textFor$3(ScalaDebugModelPresentation.scala:52)
+	at scala.util.Try$.apply(Try.scala:209)
+	at org.scalaide.debug.internal.model.ScalaDebugModelPresentation$.textFor(ScalaDebugModelPresentation.scala:52)
+	at org.scalaide.debug.internal.model.ScalaDebugModelPresentation.getText(ScalaDebugModelPresentation.scala:150)
+	at org.eclipse.debug.internal.ui.LazyModelPresentation.getText(LazyModelPresentation.java:191)
+	at org.eclipse.debug.internal.ui.DelegatingModelPresentation.getText(DelegatingModelPresentation.java:162)
+	at org.eclipse.debug.internal.ui.views.launch.DebugElementHelper.getLabel(DebugElementHelper.java:92)
+	at org.eclipse.debug.internal.ui.model.elements.DebugElementLabelProvider.getLabel(DebugElementLabelProvider.java:38)
+	at org.eclipse.debug.internal.ui.model.elements.VariableLabelProvider.getLabel(VariableLabelProvider.java:92)
+	at org.eclipse.debug.internal.ui.model.elements.ElementLabelProvider.getLabel(ElementLabelProvider.java:315)
+	at org.eclipse.debug.internal.ui.model.elements.ElementLabelProvider.retrieveLabel(ElementLabelProvider.java:218)
+	at org.eclipse.debug.internal.ui.model.elements.ElementLabelProvider$LabelUpdater.run(ElementLabelProvider.java:165)
+	at org.eclipse.debug.internal.ui.model.elements.ElementLabelProvider$LabelJob.run(ElementLabelProvider.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+2017-08-10 13:17:30,251 ERROR [Worker-76] - ScalaLocalVariable - Exception while retrieving variable's value
+com.sun.jdi.InternalException: Got error code in reply:13
+	at org.eclipse.jdi.internal.MirrorImpl.defaultReplyErrorHandler(MirrorImpl.java:299)
+	at org.eclipse.jdi.internal.StackFrameImpl.getValues(StackFrameImpl.java:139)
+	at org.eclipse.jdi.internal.StackFrameImpl.getValue(StackFrameImpl.java:75)
+	at org.scalaide.debug.internal.model.ScalaLocalVariable.doGetValue(ScalaVariable.scala:72)
+	at org.scalaide.debug.internal.model.ScalaVariable.$anonfun$getValue$2(ScalaVariable.scala:35)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:224)
+	at org.scalaide.debug.internal.model.ScalaVariable.$anonfun$getValue$1(ScalaVariable.scala:35)
+	at org.scalaide.util.Utils$jdiSynchronized$$anon$1.call(Utils.scala:60)
+	at scala.tools.eclipse.contribution.weaving.jdt.jdi.JdiInvocationSynchronizer.runSynchronized(JdiInvocationSynchronizer.java:23)
+	at org.scalaide.util.Utils$jdiSynchronized$.apply(Utils.scala:64)
+	at org.scalaide.debug.internal.model.ScalaVariable.getValue(ScalaVariable.scala:35)
+	at org.eclipse.debug.internal.ui.model.elements.VariableContentProvider.hasChildren(VariableContentProvider.java:65)
+	at org.eclipse.debug.internal.ui.model.elements.ElementContentProvider.updateHasChildren(ElementContentProvider.java:229)
+	at org.eclipse.debug.internal.ui.model.elements.ElementContentProvider$3.run(ElementContentProvider.java:206)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+2017-08-10 13:17:43,273 ERROR [Worker-90] - ScalaLocalVariable - Exception while retrieving variable's value
+com.sun.jdi.InvalidStackFrameException
+	at org.eclipse.jdi.internal.MirrorImpl.defaultReplyErrorHandler(MirrorImpl.java:291)
+	at org.eclipse.jdi.internal.StackFrameImpl.getValues(StackFrameImpl.java:139)
+	at org.eclipse.jdi.internal.StackFrameImpl.getValue(StackFrameImpl.java:75)
+	at org.scalaide.debug.internal.model.ScalaLocalVariable.doGetValue(ScalaVariable.scala:72)
+	at org.scalaide.debug.internal.model.ScalaVariable.$anonfun$getValue$2(ScalaVariable.scala:35)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:224)
+	at org.scalaide.debug.internal.model.ScalaVariable.$anonfun$getValue$1(ScalaVariable.scala:35)
+	at org.scalaide.util.Utils$jdiSynchronized$$anon$1.call(Utils.scala:60)
+	at scala.tools.eclipse.contribution.weaving.jdt.jdi.JdiInvocationSynchronizer.runSynchronized(JdiInvocationSynchronizer.java:23)
+	at org.scalaide.util.Utils$jdiSynchronized$.apply(Utils.scala:64)
+	at org.scalaide.debug.internal.model.ScalaVariable.getValue(ScalaVariable.scala:35)
+	at org.scalaide.debug.internal.model.ScalaDebugModelPresentation$.$anonfun$textFor$3(ScalaDebugModelPresentation.scala:52)
+	at scala.util.Try$.apply(Try.scala:209)
+	at org.scalaide.debug.internal.model.ScalaDebugModelPresentation$.textFor(ScalaDebugModelPresentation.scala:52)
+	at org.scalaide.debug.internal.model.ScalaDebugModelPresentation.getText(ScalaDebugModelPresentation.scala:150)
+	at org.eclipse.debug.internal.ui.LazyModelPresentation.getText(LazyModelPresentation.java:191)
+	at org.eclipse.debug.internal.ui.DelegatingModelPresentation.getText(DelegatingModelPresentation.java:162)
+	at org.eclipse.debug.internal.ui.views.launch.DebugElementHelper.getLabel(DebugElementHelper.java:92)
+	at org.eclipse.debug.internal.ui.model.elements.DebugElementLabelProvider.getLabel(DebugElementLabelProvider.java:38)
+	at org.eclipse.debug.internal.ui.model.elements.VariableLabelProvider.getLabel(VariableLabelProvider.java:92)
+	at org.eclipse.debug.internal.ui.model.elements.ElementLabelProvider.getLabel(ElementLabelProvider.java:315)
+	at org.eclipse.debug.internal.ui.model.elements.ElementLabelProvider.retrieveLabel(ElementLabelProvider.java:218)
+	at org.eclipse.debug.internal.ui.model.elements.ElementLabelProvider$LabelUpdater.run(ElementLabelProvider.java:165)
+	at org.eclipse.debug.internal.ui.model.elements.ElementLabelProvider$LabelJob.run(ElementLabelProvider.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+2017-08-10 13:17:54,038 ERROR [Worker-88] - ScalaLocalVariable - Exception while retrieving variable's value
+com.sun.jdi.InternalException: Got error code in reply:13
+	at org.eclipse.jdi.internal.MirrorImpl.defaultReplyErrorHandler(MirrorImpl.java:299)
+	at org.eclipse.jdi.internal.StackFrameImpl.getValues(StackFrameImpl.java:139)
+	at org.eclipse.jdi.internal.StackFrameImpl.getValue(StackFrameImpl.java:75)
+	at org.scalaide.debug.internal.model.ScalaLocalVariable.doGetValue(ScalaVariable.scala:72)
+	at org.scalaide.debug.internal.model.ScalaVariable.$anonfun$getValue$2(ScalaVariable.scala:35)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:224)
+	at org.scalaide.debug.internal.model.ScalaVariable.$anonfun$getValue$1(ScalaVariable.scala:35)
+	at org.scalaide.util.Utils$jdiSynchronized$$anon$1.call(Utils.scala:60)
+	at scala.tools.eclipse.contribution.weaving.jdt.jdi.JdiInvocationSynchronizer.runSynchronized(JdiInvocationSynchronizer.java:23)
+	at org.scalaide.util.Utils$jdiSynchronized$.apply(Utils.scala:64)
+	at org.scalaide.debug.internal.model.ScalaVariable.getValue(ScalaVariable.scala:35)
+	at org.eclipse.debug.internal.ui.model.elements.VariableContentProvider.hasChildren(VariableContentProvider.java:65)
+	at org.eclipse.debug.internal.ui.model.elements.ElementContentProvider.updateHasChildren(ElementContentProvider.java:229)
+	at org.eclipse.debug.internal.ui.model.elements.ElementContentProvider$3.run(ElementContentProvider.java:206)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+2017-08-10 13:23:08,855  WARN [Text Viewer Hover Presenter] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:23:08,855  WARN [Text Viewer Hover Presenter] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:23:09,512 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-10 13:23:09,513 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-10 13:23:09,514 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-10 13:23:17,612  WARN [Worker-99] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:23:17,612  WARN [Worker-99] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:23:19,837  WARN [Worker-100] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:23:19,837  WARN [Worker-100] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:25:57,693  WARN [Worker-76] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:25:57,693  WARN [Worker-76] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:25:59,346  WARN [Worker-102] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:25:59,346  WARN [Worker-102] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:27:16,441  WARN [Worker-99] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:27:16,441  WARN [Worker-99] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:27:18,616  WARN [Worker-99] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:27:18,617  WARN [Worker-99] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:30:45,764  WARN [Worker-107] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:30:45,765  WARN [Worker-107] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:30:47,422  WARN [Worker-105] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:30:47,423  WARN [Worker-105] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:40:16,882  WARN [Worker-110] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:40:16,883  WARN [Worker-110] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:40:18,577  WARN [Worker-110] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:40:18,577  WARN [Worker-110] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:40:43,879  WARN [Worker-112] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:40:43,879  WARN [Worker-112] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:40:45,951  WARN [Worker-110] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:40:45,951  WARN [Worker-110] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:44:56,186  WARN [Worker-115] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:44:56,186  WARN [Worker-115] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:44:58,451  WARN [Worker-117] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:44:58,451  WARN [Worker-117] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:46:39,875  WARN [Worker-117] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:46:39,876  WARN [Worker-117] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:46:42,077  WARN [Worker-121] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:46:42,078  WARN [Worker-121] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:47:50,007  WARN [Worker-121] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:47:50,008  WARN [Worker-121] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:47:52,386  WARN [Worker-121] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:47:52,386  WARN [Worker-121] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:48:39,619  WARN [Worker-124] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:48:39,619  WARN [Worker-124] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:48:41,949  WARN [Worker-121] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:48:41,950  WARN [Worker-121] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:48:52,454  WARN [Worker-124] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:48:52,455  WARN [Worker-124] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:48:54,707  WARN [Worker-123] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:48:54,708  WARN [Worker-123] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:49:13,900 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-10 13:49:13,900 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-10 13:49:13,900 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-10 13:49:13,900 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-10 13:49:13,900 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-10 13:49:13,900 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-10 13:49:13,900 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-10 13:49:13,900 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-08-10 13:49:14,516  WARN [Worker-120] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:49:14,517  WARN [Worker-120] - ScalaProject - Project worksheets runs on platform default installation.
+2017-08-10 13:49:16,963  WARN [Worker-125] - ScalaProject - Project worksheets has platform default sourceLevel.
+2017-08-10 13:49:16,964  WARN [Worker-125] - ScalaProject - Project worksheets runs on platform default installation.

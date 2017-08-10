@@ -1,0 +1,3 @@
+object queens {
+  def nqueens(n: Int): Set[List[Int]]
+}

@@ -1,0 +1,33 @@
+object queens {
+  def nqueens(n: Int): Set[List[Int]] = {
+  	def placeQueens(k: Int): Set[List[Int]] = {
+  		if (k == 0) Set(List())
+  		else
+  			for {
+  				queens <- placeQueens(k-1)
+  				col <- 0 until n
+  				if(isSafe(col, queens))
+  			} yield col :: queens
+  	}
+  	placeQueens(n)
+  }
+  
+  def isSafe(col: Int, queens: List[Int]): Boolean = {
+    val row = queens.length
+  	// 1st check columns
+  	if (queens contains col) false
+  	// 2nd check all diagonals
+  	else if {
+  		val q =  (0 until queens.length) zip queens.reverse
+  		
+  		}
+  }
+  
+  def diags(row: Int, col: Int, n: Int): List[(Int, Int)] =
+  	for {
+  	c <- 0 until n
+  	r <- 0 until n
+  	if (c - col == r - row) || (c + col == r + row)
+  	} yield (c, r)
+  	
+}

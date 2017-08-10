@@ -1,0 +1,10 @@
+object week62 {
+
+  var map = "aaabbcAAA" groupBy (x => x.toLower)
+  (for ((x, y) <- map) yield (x, y.length)).toList.sorted
+
+  def wordOccurrences(w: List[String]): List[(Char, Int)] = {
+    var map = w groupBy (x => x.toLower)
+    (for ((x, y) <- map) yield (x, y.length)).toList.sorted
+  }
+}

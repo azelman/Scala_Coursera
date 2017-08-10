@@ -1,0 +1,17 @@
+object week62 {
+
+  
+  def wordOccurrences(w: String): List[(Char, Int)] = {
+    var map = w groupBy (x => x.toLower)
+    (for ((x, y) <- map) yield (x, y.length)).toList.sorted
+  }                                               //> wordOccurrences: (w: String)List[(Char, Int)]
+  
+  var map = List("AAA", "bbb", "cc", "DdDdDd", "DDD", "aDasd")
+                                                  //> map  : List[String] = List(AAA, bbb, cc, DdDdDd, DDD, aDasd)
+  map.reduceLeft((a, b) => a+b)                   //> res0: String = AAAbbbccDdDdDdDDDaDasd
+  
+  var dict = List("tea", "ate", "eat")            //> dict  : List[String] = List(tea, ate, eat)
+  for(word <- dict) yield (wordOccurrences(word), word) //> res1: List[List[(Char, Int)]] = List(List((a,1), (e,1), (t,1)), List((a,1), 
+  
+                                                  //| (e,1), (t,1)), List((a,1), (e,1), (t,1)))
+}
