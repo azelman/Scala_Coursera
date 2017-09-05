@@ -1,5 +1,0 @@
-object week62 {
-  
-  "aaabbc" groupBy (x => x)                       //> res0: scala.collection.immutable.Map[Char,String] = Map(b -> bb, a -> aaa, c 
-                                                  //| -> c)
-}

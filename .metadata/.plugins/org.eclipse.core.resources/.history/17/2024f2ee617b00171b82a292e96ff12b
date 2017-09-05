@@ -1,9 +1,0 @@
-object week6 {
-  println("Welcome to the Scala worksheet")
-  val n = 7
-  val lst = 1 until n
-  val lst2 = lst flatMap (i => (1 until i) map (j => (j,i)))
-  def isPrime(in: Int): Boolean = (2 until in) forall (in % _ != 0)
-  
-  lst2 filter (pair => isPrime(pair._1 + pair._2))
-}
